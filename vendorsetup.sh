@@ -1,11 +1,11 @@
 
-add_lunch_combo cm_d2att-userdebug
-add_lunch_combo cm_find5-userdebug
-add_lunch_combo cm_infuse4g-userdebug
-add_lunch_combo cm_jfltetmo-userdebug
-add_lunch_combo cm_m7ul-userdebug
-add_lunch_combo cm_m7att-userdebug
-add_lunch_combo cm_mako-userdebug
-add_lunch_combo cm_n7100-userdebug
-add_lunch_combo cm_quincyatt-userdebug
-add_lunch_combo cm_t0lteatt-userdebug
+add_lunch_combo poly_d2att-userdebug
+add_lunch_combo poly_find5-userdebug
+add_lunch_combo poly_infuse4g-userdebug
+add_lunch_combo poly_jfltetmo-userdebug
+add_lunch_combo poly_m7ul-userdebug
+add_lunch_combo poly_m7att-userdebug
+add_lunch_combo poly_mako-userdebug
+add_lunch_combo poly_n7100-userdebug
+add_lunch_combo poly_quincyatt-userdebug
+add_lunch_combo poly_t0lteatt-userdebug
